@@ -1,2 +1,2 @@
 # Nikiteo.github.io
-Nikiteo's first "Your life"
+Your life
